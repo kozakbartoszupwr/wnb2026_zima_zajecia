@@ -2,6 +2,9 @@
 */data/*
 */results/
 
+# BLAST DB
+*/db/*
+
 # snakemake
 .snakemake/
 
